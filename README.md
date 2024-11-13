@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Cloud and K8s fan 🚀
-- 📫 How to reach me: [LinkedIn](https://github.com/sowmya7501), [Mail](mailto:sowmya7501@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sowmya-m-995b381a6), [Mail](mailto:sowmya7501@gmail.com)
 
